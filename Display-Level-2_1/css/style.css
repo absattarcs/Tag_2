@@ -1,0 +1,7 @@
+article {
+   display: inline-block;
+    gap: 20px;
+    padding: 50 30px;
+    border: 1px solid black;
+    width:400px
+}

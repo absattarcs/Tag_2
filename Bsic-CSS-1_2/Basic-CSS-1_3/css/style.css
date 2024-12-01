@@ -1,0 +1,42 @@
+*{
+    background-color: lightgray;
+    margin: 0px;
+    padding: 0px;
+}
+header ul li {
+color: orangered;
+background-color: grey;
+padding: 0px;
+margin: 0px;
+}
+h1 {
+    color: black;
+    font-size: 16px;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+img:first-of-type {
+    height: 400px;
+    width: 400px;
+}
+h3 {
+    color: orange;
+    font-size: medium;
+}
+p {
+    color: black;
+    font-size: medium;
+}
+span {
+    color: orange;
+}
+
+img:nth-of-type(2) {
+    height:600px;
+    width: 600px;
+}
+img:nth-of-type(3) {
+    height: 600px;
+    width: 800px;
+}

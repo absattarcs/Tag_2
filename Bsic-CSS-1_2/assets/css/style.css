@@ -1,0 +1,24 @@
+header p{
+    text-align: center;
+    font-weight: bold;
+}
+header h1{
+    text-align: center;
+    color: rgb(101, 20, 20);
+}
+main h1{
+    font-size: 16px;
+    font-weight: lighter;
+    background-color: lightgray;
+}
+main p {
+    font-size: 16px;
+}
+main p:nth-child(3){
+    font-size: 16px;
+    font-style: italic;
+}
+main p:nth-child(5){
+    font-size: 16px;
+    font-style: italic;
+}
